@@ -19,9 +19,22 @@ WHO  - https://www.who.int/gho/database/en/
 
 ## Exploratory Data Analysis :
 
+Distribution of the Health_Expenditure and Life Expectancy
+
+![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Distribution%20of%20Expenditure%20data.png)
+![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Distribution%20of%20Life%20Expectancy%20data.png)
+
+Correlation Plot
+
+![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Correlation%20plot.png)
+
+Health Expenditure vs LifeExpectancy
+
+![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/LifeExpectancy%20vs%20Healthcare%20Expenditure.png)
+
 ## Model Building
 
-As this is a multi-level data with lower level as time(years), we built the Panel regression models such as fixed, Random and also pooling model as a baseline model
+As this is a multi-level data with lower level as time(years), we built the Panel regression models such as fixed, Random and also pooling model as a baseline model using the plm packages in R
 
 ## Insights and recommendation 
 
