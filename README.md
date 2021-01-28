@@ -15,9 +15,26 @@ WHO  - https://www.who.int/gho/database/en/
 
 ## Data Cleaning:
 
+* imputed the null values of varaibles using the KNN techniques 
+
 ## Exploratory Data Analysis :
 
 ## Model Building
+
+As this is a multi-level data with lower level as time(years), we built the Panel regression models such as fixed, Random and also pooling model as a baseline model
+
+## Insights and recommendation 
+
+* A quantitative measure for making this strategical decision is to build 10 hospitals per 1
+million population, to increase Life expectancy by 6.7 years.
+* To manage the health expenses effectively, the government should strive to increases the
+% of total population under public insurance.
+* Quantitative measure for making this strategical decision would be to look at decrease in
+expenses by 1% per person with increasing 1% population into public insurance.
+* Also, we observed that the peculiar case of USA with High health expenses is mostly due
+to less percentage of people under Public Insurance i.e., 30% if increased will decrease the
+health expenses and the recent presidential election 2020 campaign is all around “Medicare
+for All”. Hope this model explains the argument of Campaigners. 
 
 
 
