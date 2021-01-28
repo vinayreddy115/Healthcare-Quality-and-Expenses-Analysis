@@ -1,3 +1,5 @@
+HealthCare Analytics project providing insights to policymakers 
+
 # Healthcare-Quality-and-Expenses-Analysis - Overview
 
 * Built statistical models such as fixed, random effect panel to identify the impact of variable effecting the healthcare quality and expenses
