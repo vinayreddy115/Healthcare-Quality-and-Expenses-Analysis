@@ -13,13 +13,14 @@ R packages : stargazer, plm, pheatmap
 #### Data Source: 
 
 OECD - https://stats.oecd.org/Index.aspx
+
 WHO  - https://www.who.int/gho/database/en/
 
 ## YouTube Project Walk-Through
 
 ## Data Cleaning:
 
-* imputed the null values of varaibles using the KNN techniques 
+* imputed the null values of variables using the KNN techniques 
 
 ## Exploratory Data Analysis :
 
