@@ -16,7 +16,6 @@ OECD - https://stats.oecd.org/Index.aspx
 
 WHO  - https://www.who.int/gho/database/en/
 
-## YouTube Project Walk-Through
 
 ## Data Cleaning:
 
