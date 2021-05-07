@@ -11,6 +11,32 @@
 * OECD - https://stats.oecd.org/Index.aspx
 * WHO  - https://www.who.int/gho/database/en/
 
+#### Variables considered:
+1. Health Resources 
+        a. Hospitals
+        b. Hospital Employment
+        c. Total Equipment
+        d. Medical Graduates
+        e. Nurse Graduates
+2. Health Quality
+        a. Death by respiratory disease
+        b. Death by circulatory disease
+        c. Death by Cancer
+        d. Death by accidents
+        a. Mean Schooling years
+3. Social Factors
+        a. Mean Schooling years
+        b. Population Structure (Age>65)
+
+4. Economic Factors
+        a. Expenditure per capita
+
+5. Medical Procedures
+        a. Diagnostic Exams
+6. Insurance
+        a. Public Insurance
+        b. private Insurance
+
 ## Data Cleaning:
 * Imputed the null values based on the characteristic of the respective country and yeear over year change.
 
