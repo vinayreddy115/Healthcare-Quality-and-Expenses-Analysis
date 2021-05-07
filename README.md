@@ -27,6 +27,7 @@ R packages :
 Distribution of the Health_Expenditure and Life Expectancy
 
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Distribution%20of%20Expenditure%20data.png)
+
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Distribution%20of%20Life%20Expectancy%20data.png)
 
 Correlation Plot
@@ -39,7 +40,10 @@ Health Expenditure vs LifeExpectancy
 
 
 ## Model Building
-As this is a multi-level data with lower level as time(years), we built the Panel regression models such as fixed, Random and also pooling model as a baseline model using the plm packages in R
+As this is a multi-level data with lower level as time(years), we built the below mentioned Panel regression models using the plm packages 
+* Fixed
+* Random 
+* pooling model as a baseline model 
 
 ## Insights and recommendation 
 * A quantitative measure for making this strategical decision is to build 10 hospitals per 1
