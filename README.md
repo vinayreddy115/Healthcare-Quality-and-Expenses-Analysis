@@ -7,7 +7,7 @@
 
 ## Data Collection
 * Collected the data from OCED and WHO websites of 39 countries over 2010-16 years
-#### Data Sources
+#### Sources
 * OECD - https://stats.oecd.org/Index.aspx
 * WHO  - https://www.who.int/gho/database/en/
 
