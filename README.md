@@ -40,19 +40,16 @@
 
 ## Exploratory Data Analysis :
 #### Distribution of the Health_Expenditure and Life Expectancy
-
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Distribution%20of%20Expenditure%20data.png)
 
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Distribution%20of%20Life%20Expectancy%20data.png)
 
 #### Correlation Plot
-
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Correlation%20plot.png)
 
 #### Health Expenditure vs LifeExpectancy
 
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/LifeExpectancy%20vs%20Healthcare%20Expenditure.png)
-
 
 ## Model Building
 As this is a multi-level data with lower level as time(years), we built the below mentioned Panel regression models using the plm packages 
@@ -63,33 +60,29 @@ As this is a multi-level data with lower level as time(years), we built the belo
 ## Insights and recommendation 
 
 #### Impact of variables on Health Quality
-
 ##### postive effect on Health Quality
 * Number of hospitals
 * Medical graduates, 
 * Nurse graduates , 
 ##### Negative effect on Health Quality
 * while deaths by any diseases 
-
+#### Quantitative effects
 ![image](https://user-images.githubusercontent.com/54513205/117482888-0232ab00-af33-11eb-8d10-b6cb0005f1a4.png)
 
 #### Impact of variables on Health Expenses
-
 ##### Postive effect on Health Expenses
 * Public Insurance  
 * Hospitals 
 ##### Negative effect on Health Expenses
 * private insurance  
-
+#### Quantitative effects
 ![image](https://user-images.githubusercontent.com/54513205/117483678-01e6df80-af34-11eb-9dd4-2276d19f12ba.png)
-
 
 ## Code and Resources Used:
 R packages : 
 * Stargazer
 * Plm
 * Pheatmap
-
 
 ## References 
 1) Data Collection, OECD- https://stats.oecd.org/Index.aspx
