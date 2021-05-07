@@ -19,7 +19,10 @@ WHO  - https://www.who.int/gho/database/en/
 
 ## Code and Resources Used:
 
-R packages : stargazer, plm, pheatmap
+R packages : 
+* stargazer
+* plm
+* pheatmap
 
 ## Data Cleaning:
 
