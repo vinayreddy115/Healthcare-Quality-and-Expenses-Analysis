@@ -41,15 +41,8 @@ As this is a multi-level data with lower level as time(years), we built the belo
 * To manage the health expenses effectively, the government should strive to increases the
 % of total population under public insurance.
     * Decrease in expenses by 1% per person with increasing 1% population into public insurance.
-
-   VARIABLES	                                                            IMPACT ON HEALTH EXPENSES
-Private_Insurance             	with increase in 10% percentage of population under private insurance coverage. The expenses increases by 1%.         
-Public_Insurance              	with increase in 1% percentage of population under public insurance coverage. The expenditure decreases by 1%.        
-Hospitals                      	increasing hospitals by 1 per 1000 person, The healthcare expenses decrease by 6%.        
-Diagnostic_Exams                	with increase in 1 diagnostic exams per 1000 population, the healthcare expenses increases by 1%.   
-PercPopulationabove65        	   with increase in 1% percentage of population above 65 years of age. The cost increases by 4.7%.     
-hospital_employment           	with increase in 1 employee in health sector per 1000 population. The healthcare expenses increases by 4.4%.     
-tot_equipment                 	with increase in 10 equipment’s per 1000 population. The healthcare expenses increases by 0.9%.        
+    * 
+![image](https://user-images.githubusercontent.com/54513205/117482888-0232ab00-af33-11eb-8d10-b6cb0005f1a4.png)
 
 
 ## Code and Resources Used:
