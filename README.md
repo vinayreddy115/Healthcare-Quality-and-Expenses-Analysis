@@ -97,5 +97,5 @@ unit root and cointegration analysis.
 in Norway 1961–2009. Eur J Epidemiol 27, 163–171 (2012). 
 9) Global, regional, and national life expectancy, all-cause mortality, and cause-specific 
 mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global Burden 
-of Disease Study 2015 
+of Disease Study 2015 .
 10) https://www.who.int/health_financing/documents/report_en_11_deter-he.pd
