@@ -56,3 +56,20 @@ to less percentage of people covered under Public Insurance i.e. 30% if increase
 health expenses 
 
 
+## References 
+1) Data Collection, OECD- https://stats.oecd.org/Index.aspx
+2) Data Collection, WHO https://www.who.int/gho/database/en/
+3) Panel Data Modelling - Panel Data Analysis Fixed & Random Effects - Oscar Torres-Reyna 
+4) Panel Data Modelling- Practical Guides To Panel Data Modeling: A Step by Step Analysis 
+Using Stata , Hun Myoung Park, Ph.D 
+5) Explaining Fixed Effects: Random Effects Modeling of Time-Series Cross-Sectional and 
+Panel Data- Andrew Bell, Kelvyn Jones6) Dormont, B., Grignon, M. & Huber, H., 2006. Health expenditure growth: reassessing the 
+threat of ageing. Health Economics, 15(9), pp.947-963. 
+7) Dreger, C. & Reimers, H.E., 2005. Health care expenditures in OECD countries: a panel 
+unit root and cointegration analysis.
+8) Steingrímsdóttir, Ó.A., Næss, Ø., Moe, J.O. et al. Trends in life expectancy by education 
+in Norway 1961–2009. Eur J Epidemiol 27, 163–171 (2012). 
+9) Global, regional, and national life expectancy, all-cause mortality, and cause-specific 
+mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global Burden 
+of Disease Study 2015 
+10) https://www.who.int/health_financing/documents/report_en_11_deter-he.pd
