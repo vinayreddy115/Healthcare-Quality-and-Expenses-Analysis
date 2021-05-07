@@ -37,12 +37,10 @@ As this is a multi-level data with lower level as time(years), we built the belo
 * Random effects
 
 ## Insights and recommendation 
-* constructing 10 hospitals per 1 million population results in increase of Life expectancy by 6.7 years.
-* To manage the health expenses effectively, the government should strive to increases the
-% of total population under public insurance.
-    * Decrease in expenses by 1% per person with increasing 1% population into public insurance.
-    * 
+
 ![image](https://user-images.githubusercontent.com/54513205/117482888-0232ab00-af33-11eb-8d10-b6cb0005f1a4.png)
+
+![image](https://user-images.githubusercontent.com/54513205/117483678-01e6df80-af34-11eb-9dd4-2276d19f12ba.png)
 
 
 ## Code and Resources Used:
