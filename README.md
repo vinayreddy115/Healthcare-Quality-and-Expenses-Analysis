@@ -5,13 +5,13 @@
 * Understand how to minimize the health Expenses while improving or maintaining the same Healthcare Quality. 
 * Providing insights to policymakers, Healthcare officials, Government for effective decision making.
 
-## Data Collection:
+## Data Collection
 * Collected the data from OCED and WHO websites of 39 countries over 2010-16 years
-#### Data Sources: 
+#### Data Sources
 * OECD - https://stats.oecd.org/Index.aspx
 * WHO  - https://www.who.int/gho/database/en/
 
-#### Variables considered:
+#### Variables considered
 ##### 1. Health Resources 
         a. Hospitals
         b. Hospital Employment
@@ -35,10 +35,10 @@
         a. Public Insurance
         b. private Insurance
 
-## Data Cleaning:
+## Data Cleaning
 * Imputed the null values based on the characteristic of the respective country and yeear over year change.
 
-## Exploratory Data Analysis :
+## Exploratory Data Analysis 
 #### Distribution of the Health_Expenditure and Life Expectancy
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Distribution%20of%20Expenditure%20data.png)
 
@@ -48,7 +48,6 @@
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Correlation%20plot.png)
 
 #### Health Expenditure vs LifeExpectancy
-
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/LifeExpectancy%20vs%20Healthcare%20Expenditure.png)
 
 ## Model Building
@@ -58,7 +57,6 @@ As this is a multi-level data with lower level as time(years), we built the belo
 * Random effects
 
 ## Insights and recommendation 
-
 #### Impact of variables on Health Quality
 ##### postive effect on Health Quality
 * Number of hospitals
@@ -78,7 +76,7 @@ As this is a multi-level data with lower level as time(years), we built the belo
 #### Quantitative effects
 ![image](https://user-images.githubusercontent.com/54513205/117483678-01e6df80-af34-11eb-9dd4-2276d19f12ba.png)
 
-## Code and Resources Used:
+## Code and Resources Used
 R packages : 
 * Stargazer
 * Plm
