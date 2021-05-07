@@ -2,7 +2,7 @@
 
 ## Problem Statement
 * To analyse the Healthcare System of the country and determine various factors that impact the Healthcare Quality and Expenses
-* Understand how to minimize the health Expenses while improving or maintaining the same Healthcare Quality. 
+* Understand how to minimize the Health Expenses while improving or maintaining the same Healthcare Quality. 
 * Providing insights to policymakers, Healthcare officials, Government for effective decision making.
 
 ## Data Collection
@@ -47,7 +47,7 @@
 #### Correlation Plot
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Correlation%20plot.png)
 
-#### Health Expenditure vs LifeExpectancy
+#### Health Expenditure vs Life Expectancy
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/LifeExpectancy%20vs%20Healthcare%20Expenditure.png)
 
 ## Model Building
