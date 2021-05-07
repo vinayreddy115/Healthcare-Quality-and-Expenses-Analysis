@@ -1,8 +1,8 @@
 # Healthcare-Quality-and-Expenses-Analysis - Overview
 
 ## Problem Statement
-* To determine the factors that impact the healthcare quality and expenses
-* Understand how to minimize the health expenses while improving or maintaining the same health quality. 
+* To Unserstand the Healthcare System of the country and determine various factors that impact the Healthcare Quality and Expenses
+* Understand how to minimize the health Expenses while improving or maintaining the same Healthcare Quality. 
 * Providing insights to policymakers, Healthcare officials, Government for effective decision making.
 
 ## Data Collection:
