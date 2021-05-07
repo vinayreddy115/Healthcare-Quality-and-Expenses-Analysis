@@ -1,25 +1,29 @@
-HealthCare Analytics project providing insights to policymakers 
-
 # Healthcare-Quality-and-Expenses-Analysis - Overview
 
+## Business use case : 
+Providing insights to policymakers, Healthcare officials, Government for effective decision making.
+
+## Problem Statement
+* To determine the factors that impact the healthcare quality and expenses
+* Understand how to minimize the health expenses while improving or maintaining the same health quality. 
+
 * Built statistical models such as fixed, random effect to identify the impact of variable effecting the healthcare quality and expenses
-* Collected the data from OCED and WHO websites of 39 countries over 2010-16 years
 * Identified that healthcare resources and insurance type plays a vital role in country's health quality and expenses
+
+## Data Collection:
+* Collected the data from OCED and WHO websites of 39 countries over 2010-16 years
+#### Data Source: 
+
+OECD - https://stats.oecd.org/Index.aspx
+WHO  - https://www.who.int/gho/database/en/
 
 ## Code and Resources Used:
 
 R packages : stargazer, plm, pheatmap
 
-#### Data Source: 
-
-OECD - https://stats.oecd.org/Index.aspx
-
-WHO  - https://www.who.int/gho/database/en/
-
-
 ## Data Cleaning:
 
-* imputed the null values of variables using the KNN techniques 
+* imputed the null values based on the characteristic of the respective country and yeear over year change.
 
 ## Exploratory Data Analysis :
 
