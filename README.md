@@ -41,21 +41,19 @@ As this is a multi-level data with lower level as time(years), we built the belo
 #### Impact of variables on Health Expenses
 
 From the interpretation of the fixed effect model, it is evident that increase below variables have the highest positive impact on life expectancy
-* number of hospitals
-* medical graduates, 
-* nurse graduates , 
+* Number of hospitals
+* Medical graduates, 
+* Nurse graduates , 
 while deaths by any diseases has a severe negative effect on the life expectancy. 
 
 ![image](https://user-images.githubusercontent.com/54513205/117482888-0232ab00-af33-11eb-8d10-b6cb0005f1a4.png)
 
 #### Impact of variables on Health Quality
 
-From the above interpretation of the fixed effect model, it is evident that increase in percentage 
-of 
-people receiving Public insurance and 
-hospitals have the highest impact on decreasing the Health expenditure 
-while encouraging the percentage of people in private insurance increases 
-the Health expenditure. 
+From the above interpretation of the fixed effect model, it is evident that increase in percentage below variables descrease the Health expenditure 
+* Public Insurance  
+* Hospitals 
+while encouraging the percentage of people in private insurance increases the Health expenditure. 
 
 ![image](https://user-images.githubusercontent.com/54513205/117483678-01e6df80-af34-11eb-9dd4-2276d19f12ba.png)
 
@@ -65,7 +63,6 @@ R packages :
 * Stargazer
 * Plm
 * Pheatmap
-
 
 
 ## References 
