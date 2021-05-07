@@ -8,9 +8,8 @@
 ## Data Collection:
 * Collected the data from OCED and WHO websites of 39 countries over 2010-16 years
 #### Data Sources: 
-OECD - https://stats.oecd.org/Index.aspx
-
-WHO  - https://www.who.int/gho/database/en/
+* OECD - https://stats.oecd.org/Index.aspx
+* WHO  - https://www.who.int/gho/database/en/
 
 
 ## Code and Resources Used:
@@ -24,17 +23,17 @@ R packages :
 * Imputed the null values based on the characteristic of the respective country and yeear over year change.
 
 ## Exploratory Data Analysis :
-Distribution of the Health_Expenditure and Life Expectancy
+#### Distribution of the Health_Expenditure and Life Expectancy
 
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Distribution%20of%20Expenditure%20data.png)
 
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Distribution%20of%20Life%20Expectancy%20data.png)
 
-Correlation Plot
+#### Correlation Plot
 
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/Correlation%20plot.png)
 
-Health Expenditure vs LifeExpectancy
+#### Health Expenditure vs LifeExpectancy
 
 ![EDA](https://github.com/vinayreddy115/Healthcare-Quality-and-Expenses-Analysis/blob/main/Images/LifeExpectancy%20vs%20Healthcare%20Expenditure.png)
 
@@ -46,14 +45,11 @@ As this is a multi-level data with lower level as time(years), we built the belo
 * Random effects
 
 ## Insights and recommendation 
-*To build 10 hospitals per 1 million population, to increase Life expectancy by 6.7 years.
+* constructing 10 hospitals per 1 million population results in increase of Life expectancy by 6.7 years.
 * To manage the health expenses effectively, the government should strive to increases the
 % of total population under public insurance.
-* Quantitative measure for making this strategical decision would be to look at decrease in
-expenses by 1% per person with increasing 1% population into public insurance.
-* Also, we observed that the peculiar case of USA with High health expenses is mostly due
-to less percentage of people covered under Public Insurance i.e. 30% if increased will decrease the
-health expenses 
+    * Decrease in expenses by 1% per person with increasing 1% population into public insurance.
+
 
 
 ## References 
