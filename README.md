@@ -1,4 +1,4 @@
-# Healthcare-Quality-and-Expenses-Analysis - Overview
+# Healthcare-Quality-and-Expenses-Analysis 
 
 ## Problem Statement
 * To Unserstand the Healthcare System of the country and determine various factors that impact the Healthcare Quality and Expenses
@@ -10,14 +10,6 @@
 #### Data Sources: 
 * OECD - https://stats.oecd.org/Index.aspx
 * WHO  - https://www.who.int/gho/database/en/
-
-
-## Code and Resources Used:
-R packages : 
-* Stargazer
-* Plm
-* Pheatmap
-
 
 ## Data Cleaning:
 * Imputed the null values based on the characteristic of the respective country and yeear over year change.
@@ -49,6 +41,15 @@ As this is a multi-level data with lower level as time(years), we built the belo
 * To manage the health expenses effectively, the government should strive to increases the
 % of total population under public insurance.
     * Decrease in expenses by 1% per person with increasing 1% population into public insurance.
+    
+![image](https://user-images.githubusercontent.com/54513205/117482544-86d0f980-af32-11eb-8f52-204b9ac6ba07.png)
+![image](https://user-images.githubusercontent.com/54513205/117482563-8df80780-af32-11eb-9c3e-2249059b5de2.png)
+
+## Code and Resources Used:
+R packages : 
+* Stargazer
+* Plm
+* Pheatmap
 
 
 
