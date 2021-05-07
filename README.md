@@ -65,7 +65,7 @@ As this is a multi-level data with lower level as time(years), we built the belo
 ##### Negative effect on Health Quality
 * while deaths by any diseases 
 #### Quantitative effects
-![image](https://user-images.githubusercontent.com/54513205/117483678-01e6df80-af34-11eb-9dd4-2276d19f12ba.png)
+![image](https://user-images.githubusercontent.com/54513205/117482888-0232ab00-af33-11eb-8d10-b6cb0005f1a4.png)
 
 #### Impact of variables on Health Expenses
 ##### Postive effect on Health Expenses
@@ -74,7 +74,7 @@ As this is a multi-level data with lower level as time(years), we built the belo
 ##### Negative effect on Health Expenses
 * private insurance  
 #### Quantitative effects
-![image](https://user-images.githubusercontent.com/54513205/117482888-0232ab00-af33-11eb-8d10-b6cb0005f1a4.png)
+![image](https://user-images.githubusercontent.com/54513205/117483678-01e6df80-af34-11eb-9dd4-2276d19f12ba.png)
 
 ## Code and Resources Used
 R packages : 
