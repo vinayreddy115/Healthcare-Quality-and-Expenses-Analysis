@@ -13,6 +13,7 @@
 
 #### Variables considered:
 1. Health Resources 
+
         a. Hospitals
         b. Hospital Employment
         c. Total Equipment
